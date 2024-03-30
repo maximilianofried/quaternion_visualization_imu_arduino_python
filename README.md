@@ -10,7 +10,6 @@ This project demonstrates how to visualize quaternion data from an Arduino senso
 - [Setup](#setup)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Setup
 
