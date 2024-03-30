@@ -1,8 +1,8 @@
-# Quaternion Visualization with Arduino and Python
+# Real Time Quaternion Visualization with Arduino, IMU sensor and Python
 
 ## Overview
 
-This project demonstrates how to visualize quaternion data from an Arduino sensor using Python with Visual Python (VPython).
+This project demonstrates how to visualize quaternion data from a 9-axis Inertial Measurement Unit (IMU) sensor connected to an Arduino using Python with Visual Python (VPython).
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This project demonstrates how to visualize quaternion data from an Arduino senso
 
 ## Setup
 
-1. Connect the Arduino sensor to your computer.
+1. Connect the 9-axis IMU sensor to your Arduino.
 2. Upload the provided `sketch.ino` to the Arduino.
 3. Connect the Arduino to the appropriate serial port.
 4. Install the required Python libraries using `pip install -r requirements.txt`.
