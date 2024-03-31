@@ -4,6 +4,10 @@
 
 This project demonstrates how to visualize quaternion data from a 9-axis Inertial Measurement Unit (IMU) sensor connected to an Arduino using Python with Visual Python (VPython).
 
+<div align="center">
+   <img src="https://github.com/maximilianofried/quaternion-visualization-imu-arduino-python/assets/51124912/fcc3e1b0-813b-44c1-9d23-e7c1ad4f279e" alt="animated" />
+</div>
+
 ## Table of Contents
 
 - [Overview](#overview)
